@@ -2,7 +2,7 @@
 
 Este repositorio contiene un script en Python que modela la concentración de un medicamento a lo largo del tiempo según la siguiente ecuación:
 
-![Ecuación](https://quicklatex.com/cache3/2a/ql_b5eeb19c2b3f88c77e97a1d34636b32a_l3.png)
+![Ecuación](Pic.png)
 
 El objetivo es determinar numéricamente el máximo absoluto de \(C(t)\) y visualizar su comportamiento.
 
