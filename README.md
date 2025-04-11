@@ -2,9 +2,7 @@
 
 Este repositorio contiene un script en Python que modela la concentración de un medicamento a lo largo del tiempo según la siguiente ecuación:
 
-\[
-C(t)=\frac{A}{\sigma_2-\sigma_1}\left(e^{-\sigma_1 t}-e^{-\sigma_2 t}\right)
-\]
+![Ecuación](http://latex.codecogs.com/png.latex?C(t)%3D%5Cfrac%7BA%7D%7B%5Csigma_2-%5Csigma_1%7D%5Cleft(e%5E%7B-%5Csigma_1t%7D-e%5E%7B-%5Csigma_2t%7D%5Cright))
 
 El objetivo es determinar numéricamente el máximo absoluto de \(C(t)\) y visualizar su comportamiento.
 
